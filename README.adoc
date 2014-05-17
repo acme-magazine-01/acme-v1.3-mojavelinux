@@ -1,0 +1,51 @@
+= Author Welcome Letter
+
+Values Needed:
+
+* author name - Dan Allen
+* author email - http://mojavelinux.com[@mojavelinux]
+* author username - mojavelinux
+* repository name - acme-v1.3-mojavelinux
+* repository description - Dan Allen's May 2014 article for ACME Magazine
+* repository url - https://github.com/acme-magazine-01/acme-v1.3-mojavelinux
+* edition month - 2014-05
+* draft deadline - May 15, 2014
+* editor name - 
+* editor email - 
+* article title - 
+* author guide url - 
+* model article url - 
+* resource url - 
+
+Welcome text
+
+== Key Dates
+
+> Due date for drafts (meaning you've pushed to your GitHub repo) will be the 15th of the previous month.
+
+First draft deadline
+Edit start
+Publication date
+
+== Edit Process
+
+What to expect and how to respond
+
+== Article Repository
+
+What documents and assets should be put where
+
+=== Article Template
+
+What it includes that shouldn't be messed with
+
+=== Style Guide
+
+Why you should review it
+What you'll find in it
+How to preview your article
+Additional syntax help
+
+== Help
+
+Final words and thoughts
